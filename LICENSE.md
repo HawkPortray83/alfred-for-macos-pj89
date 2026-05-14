@@ -1,4 +1,4 @@
-#  
+#  exclusive Alfred for macOS Extension | version history + goal tracking is the best Alfred for macOS extension, featuring version history and goal tracking. Safe, efficient, and
 
 
 
